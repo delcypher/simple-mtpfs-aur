@@ -1,4 +1,7 @@
 CHANGE LOG
+0.1-3
+* Fixed mistake in build() when performing configure
+
 0.1-2
 * Removed unnecessary build dependency 'git'
 * Added necessary build dependency 'automake'
